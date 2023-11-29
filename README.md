@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi! I'm Bee Law 🐝👩🏽‍⚖️
+
+I am a scientist turned entrepreneurial software engineer who loves creating well-designed products that help humans operate life more efficiently
+
+---
+
+
+
 
 <!--
 **itsbeelaw/itsbeelaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
